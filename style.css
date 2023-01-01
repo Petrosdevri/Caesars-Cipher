@@ -1,0 +1,30 @@
+body {
+	padding: 10px;
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+		Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+	line-height: 1.6;
+	font-size: 18px;
+    background: #253854;
+}
+
+h1 {
+    color: orange;
+    text-shadow: 1px 1px 2px #000000;
+}
+
+#caesar-cipher {
+    color: #ffffff;
+}
+
+input {
+    margin: 3px;
+    padding: 2px;
+    background-color: #253854;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}
+
+input:hover {
+    border: 2px solid #ffffff;
+}
